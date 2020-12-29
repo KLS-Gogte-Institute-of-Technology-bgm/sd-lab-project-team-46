@@ -74,6 +74,13 @@ exit();
 									<input type="text" class="form-control" name="username" placeholder="Username">
 									<i class="fa fa-user"></i> </span>
 							</div>
+							<div class="form-group form-actions">
+								<span class="input-icon">
+									<input type="password" class="form-control password" name="password" placeholder="Password">
+									<i class="fa fa-lock"></i>
+									 </span>
+									
+							</div>
 							
 							<div class="form-actions">
 								
